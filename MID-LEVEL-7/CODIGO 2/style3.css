@@ -1,0 +1,40 @@
+                                                  
+                                                  /*
+body {
+    background-color: rgb(182, 102, 102);
+    font-family: sans-serif;
+}
+
+#getName, #getAge {
+    padding: 10px;
+    font-size: 30px;
+    margin:  20px;
+}
+
+.nombre, .edad {
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    margin: 5px;
+}
+
+                                                   */
+body {
+    font-family: sans-serif;
+}
+
+#getInfo {
+    margin: 20px;
+    font-size: 40px;
+}
+
+.resultado {
+    background-color: rgb(69, 110, 187);
+    padding: 20px;
+    font-size: 19px;
+    color: rgb(253, 241, 241);
+}
+
+b {
+    color: rgb(231, 178, 178);
+}
